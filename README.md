@@ -4,7 +4,7 @@ I hate to design websites so don't hate me if you don't like the frontend.
 
 Made with watching a lot of tutorials, annoying a lot of mentors, and having a lot of self-loathing.
 
-####Tech Stack:
+#### Tech Stack:
 - Next.js
 - Foundry
 - Prisma
