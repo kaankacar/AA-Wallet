@@ -10,7 +10,7 @@ This project is for anyone interested in developing their own smart contract wal
 - Manage wallet information in a database.
 - Monitor wallet activities.
 
-The project is rooted in [account abstraction](https://ethereum.org/roadmap/account-abstraction) principles. It allows the creation and management of AA wallets on the BNB Smart Chain Testnet Network.
+The project is rooted in [account abstraction](https://ethereum.org/roadmap/account-abstraction) principles. It allows the creation and management of AA wallets.
 
 Modify the `foundry.toml` to deploy on different EVM compatible blockchains.
 
